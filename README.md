@@ -21,13 +21,11 @@
 hi, i'm Abinash Shasini, a passionate self-taught web developer and a software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 <br />
+<h4>- 👀 I’m interested in DevOps</h4>
+<h4>- 🌱 Currently I'm learning React Native</h4>
 
 **languages and tools:**  
 <br />
-
-<h4>- 👀 I’m interested in DevOps</h4>
-<h4>- 🌱 Currently I'm learning React Native</h4>
-<br/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
