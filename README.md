@@ -25,6 +25,9 @@ hi, i'm Abinash Shasini, a passionate self-taught web developer and a software e
 **languages and tools:**  
 <br />
 
+<h4>- 👀 I’m interested in DevOps</h4>
+<h4>- 🌱 Currently I'm learning React Native</h4>
+<br/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -39,10 +42,12 @@ hi, i'm Abinash Shasini, a passionate self-taught web developer and a software e
 
 
 
+
+<!-- 
 📈 my github stats
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abinashshasini&show_icons=true&theme=gotham" alt="abinashshasini" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abinashshasini&show_icons=true&theme=gotham" alt="abinashshasini" /> -->
 
 
 
