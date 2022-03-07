@@ -31,7 +31,7 @@
 - 📫 How to reach me **abinashshasini125@gmail.com**
 
 - 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1Yn1CsXy92q98CYk5cWTySB4_CpY8Q9ej/view?usp=sharing)
-<br />
+
 <h4>- 👀 I’m interested in FullStack Development</h4>
 <h4>- 🌱 Currently I'm learning Node.js</h4>
 
@@ -49,6 +49,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<br/>
 📈 my github stats
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=abinashshasini&show_icons=true&theme=gotham" alt="abinashshasini" />
