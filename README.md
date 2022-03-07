@@ -19,28 +19,22 @@
 </a>
 
 <br />
-<br />
 
-### Liked my GitHub:question::point_right: [Sponsor me a Dollar](https://t.co/z1ya8nt5mT?amp=1) 💰 💵 :sparkles:
+### Like my profile please give a start:-
 
-- 👨‍💻 All about me is at [My Website](https://chandrikadeb7.github.io/)
+- 👨‍💻 All about me is at [My Website](https://abinashshasini.vercel.app/)
 
 - 📝 Sometimes I write articles on [Medium](https://chandrikadeb7.medium.com/)
 
-- 💬 Ask me about ``` var topics = [ "Java", "Spring", "Python", "CSS" ] ```
+- 💬 Ask me about ``` var topics = [ "Javascript", "React", "React Native", "CSS" ] ```
 
-- 📂 Purchase Face Mask Detection Report and Slides on [Gumroad](https://gum.co/GetFaceMask)
-
-- 📫 How to reach me **chandrikadeb7@gmail.com**
+- 📫 How to reach me **abinashshasini125@gmail.com**
 
 - 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1Yn1CsXy92q98CYk5cWTySB4_CpY8Q9ej/view?usp=sharing)
 
-
-hi, i'm Abinash Shasini, a passionate self-taught web developer and a software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
 <br />
 <h4>- 👀 I’m interested in FullStack Development</h4>
-<h4>- 🌱 Currently I'm learning React Native</h4>
+<h4>- 🌱 Currently I'm learning Node.js</h4>
 
 **languages and tools:**  
 <br />
@@ -59,11 +53,10 @@ hi, i'm Abinash Shasini, a passionate self-taught web developer and a software e
 
 
 
-<!-- 
 📈 my github stats
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abinashshasini&show_icons=true&theme=gotham" alt="abinashshasini" /> -->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abinashshasini&show_icons=true&theme=gotham" alt="abinashshasini" />
 
 
 
