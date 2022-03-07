@@ -24,14 +24,13 @@
 
 - 👨‍💻 All about me is at [My Website](https://abinashshasini.vercel.app/)
 
-- 📝 Sometimes I write articles on [Medium](https://chandrikadeb7.medium.com/)
+<!-- - 📝 Sometimes I write articles on [Medium](https://chandrikadeb7.medium.com/) -->
 
 - 💬 Ask me about ``` var topics = [ "Javascript", "React", "React Native", "CSS" ] ```
 
 - 📫 How to reach me **abinashshasini125@gmail.com**
 
 - 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1Yn1CsXy92q98CYk5cWTySB4_CpY8Q9ej/view?usp=sharing)
-
 <br />
 <h4>- 👀 I’m interested in FullStack Development</h4>
 <h4>- 🌱 Currently I'm learning Node.js</h4>
@@ -53,9 +52,3 @@
 📈 my github stats
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=abinashshasini&show_icons=true&theme=gotham" alt="abinashshasini" />
-
-
-
-
-
-
