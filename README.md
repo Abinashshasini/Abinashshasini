@@ -20,7 +20,21 @@
 
 <br />
 <br />
-<br />
+
+### Liked my GitHub:question::point_right: [Sponsor me a Dollar](https://t.co/z1ya8nt5mT?amp=1) 💰 💵 :sparkles:
+
+- 👨‍💻 All about me is at [My Website](https://chandrikadeb7.github.io/)
+
+- 📝 Sometimes I write articles on [Medium](https://chandrikadeb7.medium.com/)
+
+- 💬 Ask me about ``` var topics = [ "Java", "Spring", "Python", "CSS" ] ```
+
+- 📂 Purchase Face Mask Detection Report and Slides on [Gumroad](https://gum.co/GetFaceMask)
+
+- 📫 How to reach me **chandrikadeb7@gmail.com**
+
+- 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1Yn1CsXy92q98CYk5cWTySB4_CpY8Q9ej/view?usp=sharing)
+
 
 hi, i'm Abinash Shasini, a passionate self-taught web developer and a software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
