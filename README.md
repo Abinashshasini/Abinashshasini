@@ -1,4 +1,6 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<!-- ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Chandrika Deb</h1>
+<h3 align="center">git commit -m "Hello, I'm a Software Developer at Amdocs"</h3>
 
 
 <a href="https://www.facebook.com/abinash.shasini/">
