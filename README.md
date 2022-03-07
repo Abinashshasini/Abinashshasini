@@ -2,6 +2,12 @@
 <h1>Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Abinash Shasini</h1>
 <h3>git commit -m "Hello, I'm a Software Developer at Justdial"</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrikadeb7&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p>
+
+![Banner](https://user-images.githubusercontent.com/29686102/122269982-7af63100-cefb-11eb-8ea0-b7a53bdf1cb9.png)
+
+<p align="left"> <a href="https://twitter.com/chandrikadeb7" target="blank"><img src="https://img.shields.io/twitter/follow/chandrikadeb7?logo=twitter&style=for-the-badge" alt="chandrikadeb7" /></a> </p>
+
 
 <a href="https://www.facebook.com/abinash.shasini/">
   <img align="left" alt="Abinash's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
