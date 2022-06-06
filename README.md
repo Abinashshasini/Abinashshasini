@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **abinashshasini125@gmail.com**
 
-- 📄 Know about my work & experiences [My Portfoli](https://abinashshasini.vercel.app)
+- 📄 Know about my work & experiences [My Portfolio](https://abinashshasini.vercel.app)
 
 <h4>- 👀 I’m interested in FullStack Development</h4>
 <h4>- 🌱 Currently I'm learning Node.js</h4>
