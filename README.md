@@ -4,18 +4,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abinashshasini&label=Profile%20views&color=0e75b6&style=flat" alt="Abinashshasini" /> </p
 
-<a href="https://www.facebook.com/abinash.shasini/">
-  <img align="left"  width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a> 
+
 <a href="https://twitter.com/ShasiniAbinash">
   <img align="left" alt="Abinash's Shaini | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/abinash-shasini/">
   <img align="left" alt="Ainash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/t9v7fp3gz42vpli0c3y6srjwo">
-  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+
 
 <br />
 
