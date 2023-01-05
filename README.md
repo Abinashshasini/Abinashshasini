@@ -15,7 +15,7 @@
 
 <br />
 
-### Like my profile please give a start:-
+### Like my profile please give a start
 
 - 👨‍💻 All about me is at [My Website](https://abinashshasini.vercel.app/)
 
