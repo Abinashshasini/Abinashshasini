@@ -28,7 +28,7 @@
 - 📄 Know about my work & experiences [My Portfolio](https://abinashshasini.vercel.app)
 
 <h4>- 👀 I’m interested in FullStack Development</h4>
-<h4>- 🌱 Currently I'm learning Node.js</h4>
+<h4>- 🌱 Currently I'm learning UI/UX</h4>
 
 **languages and tools:**  
 <br />
