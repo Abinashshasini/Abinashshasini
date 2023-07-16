@@ -4,19 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abinashshasini&label=Profile%20views&color=0e75b6&style=flat" alt="Abinashshasini" /> </p
 
-<!--
-<a href="https://twitter.com/ShasiniAbinash">
-  <img align="left" alt="Abinash's Shaini | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/abinash-shasini/">
-  <img align="left" alt="Ainash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
--->
-
-
 <br />
 
-### Like my profile please give a sta
+### Like my profile please give a star
 
 - 👨‍💻 All about me is at [My Website](https://abinashshasini.vercel.app/)
 
@@ -31,7 +21,7 @@
 <h4>- 👀 I’m interested in FullStack Development</h4>
 <h4>- 🌱 Currently I'm learning UI/UX</h4>
 
-** languages and tools: **  
+** Languages and tools: **  
 <br />
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
