@@ -12,7 +12,7 @@
 
 <!-- - 📝 Sometimes I write articles on [Medium](https://chandrikadeb7.medium.com/) -->
 
-- 💬 Ask me about ``` var topics = [ "Javascript", "React", "HTML", "CSS" ] ```
+- 💬 Ask me about ``` var topics = [ "Javascript", "React", "Next.js", "CSS" ] ```
 
 - 📫 How to reach me **abinashshasini125@gmail.com**
 
